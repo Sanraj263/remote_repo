@@ -1,1 +1,5 @@
 this is remote repo file for this github console...!
+
+
+this local file added the file content:wq!
+
